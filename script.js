@@ -23,4 +23,3 @@ menu_item.forEach((item) => {
     mobile_menu.classList.toggle('active');
   });
 });
-© 2020 GitHub, I
