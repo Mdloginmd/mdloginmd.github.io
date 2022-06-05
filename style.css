@@ -4,13 +4,14 @@
 	margin: 0;
 	box-sizing: border-box;
 }
-body {
-  background-image: url("https://wallpaperaccess.com/full/1526027.jpg");
-}
+
 html {
 	font-size: 10px;
 	font-family: 'Montserrat', sans-serif;
 	scroll-behavior: smooth;
+	
+  background-image: url("https://wallup.net/wp-content/uploads/2016/05/26/274945-digital_art-dark-lines-748x421.png");
+
 }
 a {
 	text-decoration: none;
