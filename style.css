@@ -52,7 +52,7 @@ p {
 	display: inline-block;
 	padding: 10px 30px;
 	color: black;
-	background-color: transparent;
+	background-color: black;
 	border: 2px solid crimson;
 	font-size: 2rem;
 	text-transform: uppercase;
@@ -231,7 +231,7 @@ p {
 	width: fit-content;
 	font-size: 4rem;
 	position: relative;
-	color: transparent;
+	color: black;
 	animation: text_reveal .5s ease forwards;
 	animation-delay: 1ss;
 }
@@ -688,7 +688,7 @@ p {
 		display: block;
 		height: auto;
 		width: fit-content;
-		background-color: transparent;
+		background-color: black;
 	}
 	#header .nav-list ul li {
 		display: inline-block;
@@ -706,3 +706,4 @@ p {
 		margin: 1.5%;
 	}
 }
+
